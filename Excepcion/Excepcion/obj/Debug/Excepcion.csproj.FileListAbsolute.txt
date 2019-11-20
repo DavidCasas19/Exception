@@ -1,0 +1,9 @@
+C:\Users\david\source\repos\Excepcion\Excepcion\bin\Debug\Excepcion.exe.config
+C:\Users\david\source\repos\Excepcion\Excepcion\bin\Debug\Excepcion.exe
+C:\Users\david\source\repos\Excepcion\Excepcion\bin\Debug\Excepcion.pdb
+C:\Users\david\source\repos\Excepcion\Excepcion\obj\Debug\Excepcion.csprojAssemblyReference.cache
+C:\Users\david\source\repos\Excepcion\Excepcion\obj\Debug\Excepcion.Frm1.resources
+C:\Users\david\source\repos\Excepcion\Excepcion\obj\Debug\Excepcion.Properties.Resources.resources
+C:\Users\david\source\repos\Excepcion\Excepcion\obj\Debug\Excepcion.csproj.GenerateResource.cache
+C:\Users\david\source\repos\Excepcion\Excepcion\obj\Debug\Excepcion.exe
+C:\Users\david\source\repos\Excepcion\Excepcion\obj\Debug\Excepcion.pdb
